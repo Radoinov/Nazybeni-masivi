@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Maksimalna ploshtadka", "Maksimalna ploshtadka\Maksimalna ploshtadka.csproj", "{A81CCBBC-A6FD-41E9-897D-19A8285FADEC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Triangle of Pascal", "Triangle of Pascal\Triangle of Pascal.csproj", "{E394E449-60CB-4F6B-8440-D2FA564FBA1A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A81CCBBC-A6FD-41E9-897D-19A8285FADEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A81CCBBC-A6FD-41E9-897D-19A8285FADEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A81CCBBC-A6FD-41E9-897D-19A8285FADEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A81CCBBC-A6FD-41E9-897D-19A8285FADEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E394E449-60CB-4F6B-8440-D2FA564FBA1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E394E449-60CB-4F6B-8440-D2FA564FBA1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E394E449-60CB-4F6B-8440-D2FA564FBA1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E394E449-60CB-4F6B-8440-D2FA564FBA1A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {37E62A0E-48D7-4DA7-8980-6F3FF1E44F0E}
+	EndGlobalSection
+EndGlobal
